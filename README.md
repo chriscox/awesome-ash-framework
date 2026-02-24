@@ -66,6 +66,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [ash_cloak](https://github.com/ash-project/ash_cloak) - Ash extension to seamlessly encrypt and decrypt resource attributes.
 - [ash_archival](https://github.com/ash-project/ash_archival) - Ash extension to implement archival (soft deletion) for resources.
 - [ash_circuit_breaker](https://github.com/christianalexander/ash_circuit_breaker) - Protects applications from cascading failures by adding circuit breaker functionality to actions.
+- [ash_multi_account](https://github.com/chriscox/ash_multi_account) - Multi-account linking and switching for Phoenix apps using Ash and AshAuthentication.
 
 ### Phoenix LiveView Components
 
